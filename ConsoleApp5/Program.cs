@@ -10,6 +10,8 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            int x = 10;
+            Console.WriteLine(x);
         }
     }
 }
